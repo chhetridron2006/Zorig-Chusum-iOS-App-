@@ -124,7 +124,7 @@ struct ContentView: View {
                             )
 
                         VStack(alignment: .leading, spacing: 0) {
-                            Text("Zorig Chusum")
+                            Text("Zorig Chusum ✦")
                                 .font(.system(.headline, design: .serif))     // D
                                 .foregroundStyle(Color.bhutanMaroon)
                             Text("Thirteen Traditional Arts")
