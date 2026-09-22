@@ -6,13 +6,8 @@
 	objectVersion = 77;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		888CFE493062668100DB6D26 /* Untitled.swift in Sources */ = {isa = PBXBuildFile; fileRef = 888CFE483062667D00DB6D26 /* Untitled.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
 		888CFE36306265B200DB6D26 /* ZorigChusum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ZorigChusum.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		888CFE483062667D00DB6D26 /* Untitled.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Untitled.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -39,7 +34,6 @@
 			children = (
 				888CFE38306265B200DB6D26 /* ZorigChusum */,
 				888CFE37306265B200DB6D26 /* Products */,
-				888CFE483062667D00DB6D26 /* Untitled.swift */,
 			);
 			sourceTree = "<group>";
 		};
@@ -125,7 +119,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				888CFE493062668100DB6D26 /* Untitled.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
